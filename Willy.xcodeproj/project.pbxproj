@@ -7,23 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D1F6A9D1FE74F7200E9F056 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1F6A9C1FE74F7200E9F056 /* SecondViewController.swift */; };
+		1D1F6A9F1FE774C900E9F056 /* background.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6A9E1FE774C900E9F056 /* background.gif */; };
+		1D1F6AA31FE778A500E9F056 /* swift+gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1F6AA21FE778A500E9F056 /* swift+gif.swift */; };
+		1D1F6AA51FE782A600E9F056 /* ai_button.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AA41FE782A600E9F056 /* ai_button.gif */; };
+		1D1F6AA71FE782AC00E9F056 /* background_1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AA61FE782AC00E9F056 /* background_1.gif */; };
+		1D1F6AA91FE788B700E9F056 /* ai_button_1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AA81FE788B700E9F056 /* ai_button_1.gif */; };
+		1D1F6AAB1FE78B6900E9F056 /* ai_button_2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AAA1FE78B6800E9F056 /* ai_button_2.gif */; };
+		1D1F6AAD1FE78CF900E9F056 /* ai_button_3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AAC1FE78CF900E9F056 /* ai_button_3.gif */; };
+		1D1F6AB11FE796DF00E9F056 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1F6AB01FE796DF00E9F056 /* ThirdViewController.swift */; };
+		1D1F6AB31FE7974500E9F056 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D1F6AB21FE7974500E9F056 /* FourthViewController.swift */; };
+		1D1F6AB61FE823B500E9F056 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AB41FE823B500E9F056 /* Main.storyboard */; };
+		1D1F6AB81FE847AF00E9F056 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1D1F6AB71FE847AE00E9F056 /* GoogleService-Info.plist */; };
 		1D54A67E1FCD281E00734AEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D54A67D1FCD281E00734AEF /* AppDelegate.swift */; };
-		1D54A6801FCD281E00734AEF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D54A67F1FCD281E00734AEF /* ViewController.swift */; };
-		1D54A6831FCD281E00734AEF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D54A6811FCD281E00734AEF /* Main.storyboard */; };
+		1D54A6801FCD281E00734AEF /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D54A67F1FCD281E00734AEF /* FirstViewController.swift */; };
 		1D54A6861FCD281E00734AEF /* Willy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1D54A6841FCD281E00734AEF /* Willy.xcdatamodeld */; };
 		1D54A6881FCD281E00734AEF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D54A6871FCD281E00734AEF /* Assets.xcassets */; };
 		1D54A68B1FCD281E00734AEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D54A6891FCD281E00734AEF /* LaunchScreen.storyboard */; };
+		B0AF4EA0270CA9DD3B83B584 /* Pods_Willy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF825512DD9394FD93EE3886 /* Pods_Willy.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D1F6A9C1FE74F7200E9F056 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		1D1F6A9E1FE774C900E9F056 /* background.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = background.gif; path = img/background.gif; sourceTree = SOURCE_ROOT; };
+		1D1F6AA21FE778A500E9F056 /* swift+gif.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "swift+gif.swift"; sourceTree = "<group>"; };
+		1D1F6AA41FE782A600E9F056 /* ai_button.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ai_button.gif; path = img/ai_button.gif; sourceTree = SOURCE_ROOT; };
+		1D1F6AA61FE782AC00E9F056 /* background_1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = background_1.gif; path = img/background_1.gif; sourceTree = SOURCE_ROOT; };
+		1D1F6AA81FE788B700E9F056 /* ai_button_1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ai_button_1.gif; path = img/ai_button_1.gif; sourceTree = SOURCE_ROOT; };
+		1D1F6AAA1FE78B6800E9F056 /* ai_button_2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ai_button_2.gif; path = img/ai_button_2.gif; sourceTree = SOURCE_ROOT; };
+		1D1F6AAC1FE78CF900E9F056 /* ai_button_3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = ai_button_3.gif; path = img/ai_button_3.gif; sourceTree = SOURCE_ROOT; };
+		1D1F6AB01FE796DF00E9F056 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		1D1F6AB21FE7974500E9F056 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		1D1F6AB51FE823B500E9F056 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1D1F6AB71FE847AE00E9F056 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		1D54A67A1FCD281E00734AEF /* Willy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Willy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D54A67D1FCD281E00734AEF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		1D54A67F1FCD281E00734AEF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		1D54A6821FCD281E00734AEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		1D54A67F1FCD281E00734AEF /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		1D54A6851FCD281E00734AEF /* Willy.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Willy.xcdatamodel; sourceTree = "<group>"; };
 		1D54A6871FCD281E00734AEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D54A68A1FCD281E00734AEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D54A68C1FCD281E00734AEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1DA0D5951FE84BB400EED6BC /* Willy.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Willy.entitlements; sourceTree = "<group>"; };
+		504B8575C43F82C50C313F77 /* Pods-Willy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Willy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Willy/Pods-Willy.debug.xcconfig"; sourceTree = "<group>"; };
+		815328DFB6D75604861E5A56 /* Pods-Willy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Willy.release.xcconfig"; path = "Pods/Target Support Files/Pods-Willy/Pods-Willy.release.xcconfig"; sourceTree = "<group>"; };
+		FF825512DD9394FD93EE3886 /* Pods_Willy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Willy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0AF4EA0270CA9DD3B83B584 /* Pods_Willy.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +70,8 @@
 			children = (
 				1D54A67C1FCD281E00734AEF /* Willy */,
 				1D54A67B1FCD281E00734AEF /* Products */,
+				34C19A98A81E0E3F0467C9AC /* Pods */,
+				604B918FF21FC39A39EB13FB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +86,44 @@
 		1D54A67C1FCD281E00734AEF /* Willy */ = {
 			isa = PBXGroup;
 			children = (
+				1DA0D5951FE84BB400EED6BC /* Willy.entitlements */,
+				1D1F6AB71FE847AE00E9F056 /* GoogleService-Info.plist */,
 				1D54A67D1FCD281E00734AEF /* AppDelegate.swift */,
-				1D54A67F1FCD281E00734AEF /* ViewController.swift */,
-				1D54A6811FCD281E00734AEF /* Main.storyboard */,
+				1D1F6AB41FE823B500E9F056 /* Main.storyboard */,
+				1D54A67F1FCD281E00734AEF /* FirstViewController.swift */,
+				1D1F6A9C1FE74F7200E9F056 /* SecondViewController.swift */,
 				1D54A6871FCD281E00734AEF /* Assets.xcassets */,
+				1D1F6AA41FE782A600E9F056 /* ai_button.gif */,
+				1D1F6AAA1FE78B6800E9F056 /* ai_button_2.gif */,
+				1D1F6AA81FE788B700E9F056 /* ai_button_1.gif */,
+				1D1F6AAC1FE78CF900E9F056 /* ai_button_3.gif */,
+				1D1F6AA61FE782AC00E9F056 /* background_1.gif */,
+				1D1F6A9E1FE774C900E9F056 /* background.gif */,
 				1D54A6891FCD281E00734AEF /* LaunchScreen.storyboard */,
 				1D54A68C1FCD281E00734AEF /* Info.plist */,
 				1D54A6841FCD281E00734AEF /* Willy.xcdatamodeld */,
+				1D1F6AA21FE778A500E9F056 /* swift+gif.swift */,
+				1D1F6AB01FE796DF00E9F056 /* ThirdViewController.swift */,
+				1D1F6AB21FE7974500E9F056 /* FourthViewController.swift */,
 			);
 			path = Willy;
+			sourceTree = "<group>";
+		};
+		34C19A98A81E0E3F0467C9AC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				504B8575C43F82C50C313F77 /* Pods-Willy.debug.xcconfig */,
+				815328DFB6D75604861E5A56 /* Pods-Willy.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		604B918FF21FC39A39EB13FB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FF825512DD9394FD93EE3886 /* Pods_Willy.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +133,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 1D54A68F1FCD281E00734AEF /* Build configuration list for PBXNativeTarget "Willy" */;
 			buildPhases = (
+				12D2A5BE4C46D517215A14A9 /* [CP] Check Pods Manifest.lock */,
 				1D54A6761FCD281E00734AEF /* Sources */,
 				1D54A6771FCD281E00734AEF /* Frameworks */,
 				1D54A6781FCD281E00734AEF /* Resources */,
+				9C6B74DFDE466FA0490DC70A /* [CP] Embed Pods Frameworks */,
+				9242E269538B0019A7F6EC94 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -100,6 +162,11 @@
 					1D54A6791FCD281E00734AEF = {
 						CreatedOnToolsVersion = 9.0.1;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -126,21 +193,90 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D1F6AAD1FE78CF900E9F056 /* ai_button_3.gif in Resources */,
+				1D1F6AA71FE782AC00E9F056 /* background_1.gif in Resources */,
+				1D1F6AAB1FE78B6900E9F056 /* ai_button_2.gif in Resources */,
+				1D1F6AA51FE782A600E9F056 /* ai_button.gif in Resources */,
 				1D54A68B1FCD281E00734AEF /* LaunchScreen.storyboard in Resources */,
+				1D1F6AA91FE788B700E9F056 /* ai_button_1.gif in Resources */,
+				1D1F6AB61FE823B500E9F056 /* Main.storyboard in Resources */,
+				1D1F6AB81FE847AF00E9F056 /* GoogleService-Info.plist in Resources */,
 				1D54A6881FCD281E00734AEF /* Assets.xcassets in Resources */,
-				1D54A6831FCD281E00734AEF /* Main.storyboard in Resources */,
+				1D1F6A9F1FE774C900E9F056 /* background.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		12D2A5BE4C46D517215A14A9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Willy-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9242E269538B0019A7F6EC94 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Willy/Pods-Willy-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9C6B74DFDE466FA0490DC70A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Willy/Pods-Willy-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/Protobuf/Protobuf.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Protobuf.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Willy/Pods-Willy-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1D54A6761FCD281E00734AEF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D1F6A9D1FE74F7200E9F056 /* SecondViewController.swift in Sources */,
 				1D54A6861FCD281E00734AEF /* Willy.xcdatamodeld in Sources */,
-				1D54A6801FCD281E00734AEF /* ViewController.swift in Sources */,
+				1D1F6AA31FE778A500E9F056 /* swift+gif.swift in Sources */,
+				1D1F6AB31FE7974500E9F056 /* FourthViewController.swift in Sources */,
+				1D54A6801FCD281E00734AEF /* FirstViewController.swift in Sources */,
+				1D1F6AB11FE796DF00E9F056 /* ThirdViewController.swift in Sources */,
 				1D54A67E1FCD281E00734AEF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -148,10 +284,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		1D54A6811FCD281E00734AEF /* Main.storyboard */ = {
+		1D1F6AB41FE823B500E9F056 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				1D54A6821FCD281E00734AEF /* Base */,
+				1D1F6AB51FE823B500E9F056 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -276,9 +412,12 @@
 		};
 		1D54A6901FCD281E00734AEF /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 504B8575C43F82C50C313F77 /* Pods-Willy.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Willy/Willy.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = W2NU7EZ45F;
 				INFOPLIST_FILE = Willy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.okaykim.Willy;
@@ -290,9 +429,12 @@
 		};
 		1D54A6911FCD281E00734AEF /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 815328DFB6D75604861E5A56 /* Pods-Willy.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Willy/Willy.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = W2NU7EZ45F;
 				INFOPLIST_FILE = Willy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.okaykim.Willy;

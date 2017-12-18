@@ -1,0 +1,6 @@
+framework module Pods_Willy {
+  umbrella header "Pods-Willy-umbrella.h"
+
+  export *
+  module * { export * }
+}
